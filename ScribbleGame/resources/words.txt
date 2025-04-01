@@ -1,0 +1,11 @@
+apple
+mehnat_ka_phal
+banana
+orange
+grape
+mango
+guava
+cherry
+strawberries
+papaya
+pomegranate
